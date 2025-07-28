@@ -1,0 +1,9 @@
+﻿using Entitas;
+
+namespace Game.PortraitCameras.Comps
+{
+    [Game]
+    public class PortraitCameraComponent : IComponent
+    {
+    }
+}
